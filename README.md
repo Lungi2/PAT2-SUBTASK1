@@ -15,7 +15,6 @@ A: ·−
 B: −···
 C: −·−·
 D: −··
-
 H: ···· (dot-dot-dot-dot)
 E: · (dot)
 L: ·−·· (dot-dash-dot-dot)
